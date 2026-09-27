@@ -1,0 +1,44 @@
+h1 {
+  color: black;
+  font-size:50px;
+}
+button {
+    /* Kích thước */
+    width: 200px;
+    height: 60px;
+
+    /* Màu nền */
+    background-color: blue;
+
+    /* Màu chữ */
+    color: white;
+
+    /* Cỡ chữ */
+    font-size: 15px;
+
+    /* Kiểu chữ */
+    font-family: Arial;
+    font-weight: bold;
+
+    /* Viền */
+    border: 2px solid black;
+    border-radius: 15px;
+
+    /* Khoảng cách bên trong */
+    padding: 10px 20px;
+
+    /* Khoảng cách bên ngoài */
+    margin: 10px;
+
+    /* Con trỏ chuột */
+    cursor: pointer;
+
+    /* Đổ bóng */
+    box-shadow: 0 5px 10px gray;
+
+    /* Độ trong suốt */
+    opacity: 1;
+
+    /* Căn giữa chữ */
+    text-align: center;
+}
